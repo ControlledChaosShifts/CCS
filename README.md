@@ -1,5 +1,7 @@
 # Theory of Chaos Controlled Shifts (CCS)
 
+![](images/rb_52815_500.png)
+
 The Theory of Chaos Controlled Shifts builds upon established systems design principles to transform AI-human interaction through momentary, controlled disruptions in control dynamics. While control transitions themselves are not new, CCS suggests an innovative approach to AI-human collaboration.
 
 This approach does not rely on randomness or handicapping but on intentional, context-sensitive interventions. By introducing controlled chaos at strategic moments, we may have discovered a key to optimizing AI-human interaction.
