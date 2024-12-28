@@ -1,4 +1,4 @@
-# Theory of Chaos Controlled Shifts (CCS)
+# Chaos Controlled Shifts Theory (CCS)
 
 ![](images/rb_52815_500.png)
 
